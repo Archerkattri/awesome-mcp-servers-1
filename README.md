@@ -361,6 +361,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://api.iconify.design/mdi:math-integral-box.svg?color=%231A7F37" height="14"/> [mathlas](https://github.com/Archerkattri/mathlas) - Airtight math for agents: 3.7M-theorem search, PSLQ constant identification, OEIS lookup, real Lean kernel checks. No LLM inside, no API key
 
 <br />
+- <img src="https://statsnet.co/favicon.ico" height="14"/> [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. REMOTE: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 
 ## 🤝 <a name="ai-services"></a>AI Services
 
